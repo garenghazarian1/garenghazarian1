@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garen
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning WD
+- 🌱 I’m Software Developer
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 garenghazarian1@gmail.com
 
